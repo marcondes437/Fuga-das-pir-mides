@@ -1,0 +1,11 @@
+.git
+.next
+.output
+.npm-cache
+.workspace
+.tanstack
+.wrangler
+node_modules
+.env
+.env.*
+*.tsbuildinfo

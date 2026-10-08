@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 .next/
+.vercel/
 out/
 *.tsbuildinfo
 .npm-cache/
@@ -39,3 +40,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
